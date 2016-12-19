@@ -1,0 +1,24 @@
+{
+  "name": "bcrypt-hash",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JavaScript implementation of bcrypt password hashing. This module provides only the password hashing function.",
+  "main": "bcrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jurca/bcrypt-hash.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "password"
+  ],
+  "author": "Martin Jurča <mjurca@centrum.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jurca/bcrypt-hash/issues"
+  },
+  "homepage": "https://github.com/jurca/bcrypt-hash#readme"
+}
